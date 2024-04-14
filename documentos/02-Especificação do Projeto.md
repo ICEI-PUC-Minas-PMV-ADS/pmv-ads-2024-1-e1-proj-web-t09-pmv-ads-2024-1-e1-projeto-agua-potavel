@@ -56,7 +56,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Cidadão de comunidade | Desejo que olhem a situação que estamos passando onde não temos água potável | Informar Local e a criticidade da situação |
-|Orgão fornecedor de água | Atender o chamado do cidadão e analisar a situação  | para o envio da equipe de suporte de canalização água.  |
+|Orgão fornecedor de água | Atender o chamado do cidadão e analisar a situação  | Para o envio da equipe de suporte de canalização água.  |
 |Cidadão da comunidade| Acessar o site diariamente  | Para ter ciencia dos alertas nos locais onde possa uma equipe trabalhando para resolver o problema de água poluída ou má canalização   |
 |Orgão fornecedor de água | Tirar todas as dúvidas do cidadão de acordo com a situação e orienta.   | Para ter um boa colaboração e dicas básicas que o cidadão possa fazer até a chegada do orgão responsável. |
 |Cidadão de comunidade | Fornecer feedbacks no sistema bom ou ruim   | Para o melhor desempenho da equipe, para que possamos corrigir erros para termos os melhores resultados. |
