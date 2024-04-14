@@ -1,35 +1,51 @@
 # Introdução
 
-[Aqui a equipe deve criar um texto descritivo com a visão geral do problema abordado, apresentando o ambiente e as situações envolvidas no problema.]
+A plataforma será projetada para ser altamente acessível e intuitiva, permitindo que os usuários cadastrem novos locais de forma fácil e rápida. Além disso, será implementado um sistema de verificação para garantir a precisão e a confiabilidade das informações fornecidas pelos usuários.
+
+A lógica de priorização das solicitações será baseada em uma série de fatores, incluindo a densidade populacional da área, a gravidade da necessidade de canalização de água, a disponibilidade de recursos financeiros e a infraestrutura existente. Algoritmos de inteligência artificial serão utilizados para analisar esses dados e atribuir uma classificação de prioridade adequada a cada solicitação.
+
+Para aumentar a transparência e a prestação de contas, os usuários poderão acompanhar o status de suas solicitações em tempo real por meio da plataforma. Além disso, relatórios periódicos serão gerados para fornecer insights sobre o progresso geral do projeto e áreas de foco para futuras melhorias na distribuição de recursos.
+
+Essa abordagem holística e baseada em dados garantirá que os recursos sejam alocados de forma eficiente e que as comunidades mais necessitadas sejam atendidas de maneira justa e oportuna. 
+
 
 ## Problema
-[Aqui a equipe deve fornecer uma descrição detalhada do problema a ser resolvido. Não é o momento adequado para abordar questões técnicas relacionadas ao desenvolvimento da aplicação. O objetivo é compreender e comunicar de maneira precisa qual é o desafio ou necessidade que motiva a criação da aplicação.]
 
-Este link pode ajudar a equipe a entender mais sobre definição do problema: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+
+A falta de canalização de água é um problema que afeta muitas comunidades, levando a questões como acesso limitado a água potável, aumento do risco de doenças transmitidas pela água e dificuldades no desenvolvimento socioeconômico. Essa ausência de infraestrutura adequada é frequentemente exacerbada por fatores como distribuição desigual de recursos, falta de priorização de áreas mais necessitadas e processos de tomada de decisão opacos. Esses fatores, combinados, resultam em comunidades desfavorecidas sendo deixadas para trás em termos de acesso a um recurso fundamental para a vida.
 
 
 ## Objetivos
 
-[Aqui a equipe deve realizar uma descrição detalhada dos objetivos do trabalho, ressaltando quais as questões principais do problema a serem resolvidas pelo projeto, não é a hora de apresentar requisitos detalhados.]
- 
-Este link pode ajudar a equipe a entender mais sobre definição dos objetivos: [Objetivos, Problema de pesquisa e Justificativa.](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
+A principal meta deste empreendimento é conceber uma plataforma que habilite os utilizadores a registrar áreas carecidas de infraestrutura de canalização de água, ao mesmo tempo em que um algoritmo embutido categoriza e hierarquiza tais pedidos conforme a urgência das demandas.
+
+Como objetivos específicos, podemos destacar:
+<ul>
+<li>Uma platadorma para auxiliar as comunidades carentes de aguá potável</li>
+<li>Demandar os problemas para o servidor responsável</li>
+<li>Uma vida melhor a aqueles que necessitam de suporte.</li>
+</ul>
+
 
 ## Justificativa
 
-[Aqui a equipe deve descrever a importância ou a motivação para trabalhar com o problema definido. Indique as razões pelas quais a equipe escolheu o problema e definiu os objetivos.
+De acordo com Jornal O Estado de S. Paulo.:
 
-Devem ser apresentados dados de fontes relevantes e confiáveis sobre o problema, inserindo-o como alvo de estudo. Sugere-se que a equipe utilize questionários, entrevistas e dados estatísticos, que devem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pela equipe.]
+"Cerca de 28 mil pessoas ainda morrem no Brasil todos os anos por causa da contaminação da água ou de doenças relacionadas com a falta de higiene."
 
-Este link pode ajudar a equipe a formular a justificativa: [Como montar a justificativa.](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+Com base nesses acontecimentos vimos a necessidade da criação do projeto Água viva.
+
 
 ## Público-Alvo
 
-[Aqui é necessário descrever os atores envolvidos no problema, destacando os diferentes perfis de usuários. O propósito é apresentar as características, necessidades, conhecimentos prévios e experiência com a tecnologia do público-alvo.
 
-Sugere-se que a equipe utilize questionários e/ou entrevistas a fim de conhecer os atores que compõem o público alvo.]
+Embora os desafios mencionados possam ocorrer em diferentes estágios da vida das comunidades, o foco deste projeto está nas áreas rurais e em comunidades com dificuldades de acesso à água potável.
 
-Os links abaixo podem ajudar a equipe a conhecer um pouco mais sobre o público-alvo. 
-
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-
+Portanto, os destinatários desta plataforma incluem:
+<ul>
+<li>Organizações sem fins lucrativos que trabalham para fornecer acesso à água potável em regiões desfavorecidas.</li>
+<li>Comunidades em situação de carência que enfrentam desafios no acesso à água limpa e segura.</li>
+<li>Entidades governamentais locais responsáveis pela gestão e distribuição de recursos hídricos em áreas rurais e remotas.</li>
+<li>Prestadoras de serviços de água que podem colaborar na identificação e resolução de problemas relacionados ao abastecimento de água.Voluntários interessados em contribuir para melhorar o acesso à água potável em comunidades carentes.</li>
+<li>Pessoas engajadas em iniciativas de promoção da água potável em áreas desfavorecidas, buscando soluções sustentáveis e eficazes para os desafios enfrentados.</li>
+</ul>
