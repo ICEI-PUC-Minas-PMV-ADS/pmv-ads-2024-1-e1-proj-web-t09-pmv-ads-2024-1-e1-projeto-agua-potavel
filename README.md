@@ -10,11 +10,11 @@ Portal de alerta contra a sede em lugares com difícil acesso à água potável!
 
 ## Integrantes
 
-*Jonathas Marques de Souza 
+* Jonathas Marques de Souza 
 
-*Luiz Fernando Ribeiro Rocha 
+* Luiz Fernando Ribeiro Rocha 
 
-*Paulo Roberto Nazario Catarino 
+* Paulo Roberto Nazario Catarino 
 
  
 
