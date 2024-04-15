@@ -1,7 +1,4 @@
 # Referências Bibliográficas
 
-[Inclua todas as referências (livros, artigos, sites, etc) utilizados no desenvolvimento do trabalho.]
-
-> **Links Úteis**:
-> - [Formato ABNT](https://www.normastecnicas.com/abnt/)
-> - [Referências Bibliográficas da ABNT](https://comunidade.rockcontent.com/referencia-bibliografica-abnt/)
+Autor: Baptista Neto, João Antônio. - ART, Henry W. Dicionário de Ecologia e Ciências Ambientais. São Paulo: Editora Melhoramentos, 2001. Disponível em:
+https://www.suapesquisa.com/poluicaodaagua/
