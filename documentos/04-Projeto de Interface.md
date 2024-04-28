@@ -28,7 +28,9 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 ![2](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/95137835/b8c29840-d893-4bfa-a37e-7fba88bc63c4)
 
+## TELA DE CADASTRO
 
+![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/95137835/d1239b7e-28c0-4b2e-84e8-0f5485f59fb5)
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
