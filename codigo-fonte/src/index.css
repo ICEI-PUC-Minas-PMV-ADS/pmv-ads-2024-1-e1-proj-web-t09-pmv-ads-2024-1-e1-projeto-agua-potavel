@@ -17,11 +17,6 @@ h1 {
     display: flex;
 }
 
-.logo {
-    width: '50px';
-    height: '50px';
-}
-
 .login {
     background-color: blue;
     color: #FFFFFF;
@@ -34,4 +29,20 @@ h1 {
     border-radius: 20px;
     padding: 8px 12px;;
     margin: auto;
+}
+
+.separator {
+    border-top: 1px solid #ffffff;
+    width: 95%;
+    margin:  auto;
+}
+
+.text {
+    color: white;
+    font-family: Arial Black, Arial, sans-serif;
+    position: absolute;
+    top: 36%;
+    left: 4%;
+    font-size: 3em;
+    line-height: 1;
 }
