@@ -21,8 +21,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 ## TELA INICIAL
 
-![1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/95137835/a6858ef8-998e-4dc9-9ef3-0ddb92c1691f)
-
+![11](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/95137835/47147865-f96e-44ec-bd29-6601dcdc2f5d)
 
 ## TELA DE LOGIN
 
@@ -35,7 +34,7 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 ## TELA DO FEED(DOING)
 
-![4](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/95137835/80ce4f76-4c73-42da-a1f8-a7d196079386)
+![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/95137835/8a0045e7-561e-489c-80bd-ae438d772dc3)
 
 > **Links Úteis**:
 > - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
