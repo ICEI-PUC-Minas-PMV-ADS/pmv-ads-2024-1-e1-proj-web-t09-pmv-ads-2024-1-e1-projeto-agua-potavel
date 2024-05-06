@@ -12,6 +12,7 @@ h1 {
     align-items: center;
     justify-content:space-between;
     width: 95%;
+    
 }
 
 .primary-icon {
@@ -43,7 +44,7 @@ h1 {
     font-family: Arial Black, Arial, sans-serif;
     position: absolute;
     top: 36%;
-    left: 4%;
+    left: 5%;
     font-size: 3em;
     line-height: 1;
 }
@@ -53,6 +54,7 @@ h1 {
     justify-content:flex-start;
     position: fixed;
     bottom: 25%;
+    left: 4%;
     left: 3%;
     width: 90%;
 }
@@ -62,7 +64,7 @@ h1 {
     color: white;
     font-family: Arial Black, Arial, sans-serif;
     border-radius: 25px;
-    padding: 0.5em 1em; /* Adiciona espaço interno usando unidades relativas */
+    padding: 0.5em 1em;
     padding: 0.7em 2em;
 }
 .saiba {
@@ -70,8 +72,8 @@ h1 {
     color: white;
     font-family: Arial Black, Arial, sans-serif;
     border-radius: 25px;
-    padding: 0.5em 1em; /* Adiciona espaço interno usando unidades relativas */
-    margin: 0 1%; /* Adiciona espaço entre os botões usando porcentagem */
+    padding: 0.5em 1em;
+    margin: 0 1%;
     padding: 0.7em 2em;
 }
 
