@@ -50,11 +50,11 @@ h1 {
 
 .sub-icons {
     display: flex;
-    justify-content:flex-start; /* Centraliza os elementos horizontalmente */
-    position: fixed; /* Mantém o contêiner na mesma posição enquanto rola a página */
-    bottom: 25%; /* Define a distância do contêiner ao rodapé da página */
-    left: 3%; /* Move os botões 5% para a direita em relação à margem esquerda */
-    width: 90%; /* Ocupa 90% da largura da página */
+    justify-content:flex-start;
+    position: fixed;
+    bottom: 25%;
+    left: 3%;
+    width: 90%;
 }
 
 .feed{
