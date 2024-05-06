@@ -44,7 +44,7 @@ h1 {
     font-family: Arial Black, Arial, sans-serif;
     position: absolute;
     top: 36%;
-    left: 4%;
+    left: 5%;
     font-size: 3em;
     line-height: 1;
 }
@@ -54,7 +54,7 @@ h1 {
     justify-content:flex-start;
     position: fixed;
     bottom: 25%;
-    left: 3%;
+    left: 4%;
     width: 90%;
 }
 
