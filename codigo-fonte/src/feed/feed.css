@@ -43,6 +43,10 @@ body {
     padding: 25px;
 }
 
+.container-flex {
+    padding-top: 50px;
+}
+
 .inputs-container {
     flex: 2;
     padding: auto;   
@@ -50,6 +54,7 @@ body {
 
 .select-container {
     flex: 1;
+    display: block;
 }
 
 .input-group {
@@ -85,4 +90,16 @@ body {
 .select-container select:focus {
     border-color: #007bff; 
     outline: none;
+}
+
+.select-group {
+    margin-bottom: 140px; 
+}
+
+#button-send {
+    background-color: violet;
+    color: #FFFFFF;
+    border-radius: 20px;
+    padding: 8px 20px;
+    border-color: violet;
 }
