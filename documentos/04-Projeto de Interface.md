@@ -31,8 +31,11 @@ Protótipos de baixa fidelidade apresentam de forma simplificada o design da int
 
 ![3](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/95137835/d1239b7e-28c0-4b2e-84e8-0f5485f59fb5)
 
+## TELA DO USUÁRIO
 
-## TELA DO FEED(DOING)
+![6](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/95137835/02e65f90-05bd-4da5-bc90-9d358db2144b)
+
+## TELA DO FEED
 
 ![5](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/95137835/8a0045e7-561e-489c-80bd-ae438d772dc3)
 
