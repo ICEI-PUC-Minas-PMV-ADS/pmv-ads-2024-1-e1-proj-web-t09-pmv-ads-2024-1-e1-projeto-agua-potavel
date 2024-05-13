@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+body{
+    background-color:#101728;
+    overflow: hidden;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    margin: -70px -165px 70px 0px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+.login{
+    padding: 100px;
+    background: linear-gradient(32deg, rgba(112,64,234,1) 0%, rgba(65,65,207,1) 100%);
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+    border-radius: 10px ;
+}
+.login > button{
+    width: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 6px;
+    border-radius: 2px;
+    transition: background-color 0.5s ease;
+    display: flex;
+    justify-content: flex-start;
+    gap: 30%;
+    align-items: center;
+}
+
+
+.login > button:hover{
+    cursor: pointer;
+    background-color: rgb(199, 199, 199);
+    
+}
+.password > h2{
+    margin-left: -15px;  
+}
+.user-svg{
+    width: 20px;
+}
+.locked-svg{
+    width: 25px;
+}
+.alinhamentoDivLogin{
+    flex-direction: column;
+}
