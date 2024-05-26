@@ -8,7 +8,6 @@ Nesse primeiro eixo do curso, para simplificar a utilização do Git e a organiz
 - Pasta src (root do projeto): index.html, index.css, index.js - Desenvolvedor responsável: Luiz Fernando.
 - Pasta src\cadastro: cadastro.html, cadastro.css, cadastro.js - Desenvolvedor responsável: Paulo Catarino.
 - Pasta src\login: login.html, login.css, login.js  - Desenvolvedor responsável: Paulo Catarino.
-- Pasta src\login: login.html, login.css, login.js  - Desenvolvedor responsável: Paulo Catarino.
 - Pasta src\usuario: usuario.html, usuario.css, usuario.js  - Desenvolvedor responsável: Luiz Fernando.
 - Pasta src\feed: feed.html, feed.css, feed.js  - Desenvolvedor responsável: Jonathas Marques.
 - Pasta src\feedDetails: feedDetails.html, feedDetails.css, feedDetails.js  - Desenvolvedor responsável: Jonathas Marques.

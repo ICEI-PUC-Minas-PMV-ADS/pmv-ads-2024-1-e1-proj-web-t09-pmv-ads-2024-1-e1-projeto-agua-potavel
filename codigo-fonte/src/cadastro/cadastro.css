@@ -66,3 +66,11 @@ body{
 .btn-username > h2{
     margin-left: -15px;
 }
+
+.form-group {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
