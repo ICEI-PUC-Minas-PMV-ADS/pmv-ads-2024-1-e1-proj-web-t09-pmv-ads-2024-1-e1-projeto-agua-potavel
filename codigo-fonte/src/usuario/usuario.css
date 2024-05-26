@@ -1,8 +1,18 @@
 body {
-    margin: 0;
     background-color: #101728;
 }
-
+h1{
+    display: flex;
+    position: static;
+    color: #ffffff;
+    justify-content: space-between;
+    font-family:'Segoe UI', Tahoma, Geneva, sans-serif;
+    font-size: 25px;
+    width:auto;
+    height: 10px;
+    align-items: flex-end;
+    margin-left: 35px;
+}
 .container {
     display: flex;
     justify-content: space-between;
@@ -26,35 +36,27 @@ body {
     margin:  auto;
 }
 
-.container-main {
+.main {
     width: 90%;
-    margin: auto;
+    
     padding-top: 40px;
 }
 
 .container-box {
-    width: 700px;
+    width: 400px;
     height: 200px;
     background-color: #57239b;
     border-radius: 25px;
-    margin: auto;
-    display: flex;
+    margin-left: 63px;
+    display: grid;
     justify-content: space-between;
+    justify-items: start;
     padding: 25px;
-}
-
-.container-flex {
-    padding-top: 50px;
 }
 
 .inputs-container {
     flex: 2;
     padding: auto;   
-}
-
-.select-container {
-    flex: 1;
-    display: block;
 }
 
 .input-group {
@@ -68,38 +70,13 @@ body {
 
 .input-group input[type="text"] {
     width: 80%;
-    padding: 10px; 
+    padding: 8px;
     border: 1px solid #ccc; 
-    border-radius: 5px; 
+    border-radius: 15px; 
     transition: border-color 0.3s ease; 
 }
 
 .input-group input[type="text"]:focus {
     border-color: #007bff; 
     outline: none;
-}
-
-.select-container select {
-    width: 100%; 
-    padding: 10px; 
-    border: 1px solid #ccc; 
-    border-radius: 5px; 
-    transition: border-color 0.3s ease;
-}
-
-.select-container select:focus {
-    border-color: #007bff; 
-    outline: none;
-}
-
-.select-group {
-    margin-bottom: 140px; 
-}
-
-#button-send {
-    background-color: violet;
-    color: #FFFFFF;
-    border-radius: 20px;
-    padding: 8px 20px;
-    border-color: violet;
 }
