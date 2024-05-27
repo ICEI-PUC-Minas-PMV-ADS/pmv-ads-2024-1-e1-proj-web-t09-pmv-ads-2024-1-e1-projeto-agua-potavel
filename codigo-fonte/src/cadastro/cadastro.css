@@ -57,7 +57,7 @@ body{
     width: 20px;
 }
 .locked-svg{
-    width: 25px;
+    width: 20px;
 }
 .alinhamentoDivLogin{
     flex-direction: column;
@@ -73,4 +73,25 @@ body{
     display: flex;
     justify-content: center;
     gap: 10px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#cadastroForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+#login-button {
+    background: rgb(147,64,255);
+    background: white;
+    color: rgb(147,64,255);
+    font-family: Arial Black, Arial, sans-serif;
+    font-size: 13px;
+    border-radius: 20px;
+    padding: 8px 20px;
+    cursor: pointer;
 }

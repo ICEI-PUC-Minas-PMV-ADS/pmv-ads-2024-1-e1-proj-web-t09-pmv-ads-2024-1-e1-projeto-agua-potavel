@@ -1,24 +1,43 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="./login.css"/>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" type="text/css" href="./login.css" />
     <title>Login</title>
-</head>
-<body>
-    <div class="container alinhamentoDivLogin">   
-        <div class="logo"><Img src="../logo.svg"></div>
-        <div class="login">
-            <button class="email" id="email">
-                <img src="../user-svgrepo-com.svg" alt="" class="user-svg">
-                <h2>Email</h2>
-            </button>
-            <button class="password" id="password">
-                <img src="../locked-svgrepo-com.svg" alt="" class="locked-svg">
-                <h2>Password</h2>
-            </button>
+  </head>
+
+  <body>
+    <div class="container alinhamentoDivLogin">
+        <div class="logo">
+          <img src="../img/logo.svg" alt="Logo" />
         </div>
-    </div>
-</body>
+        <div class="login">
+          <form id="loginForm">   
+            <div class="form-group">
+              <label for="email" class="email">
+                <img
+                  src="../img/email-9-svgrepo-com.svg"
+                  alt="Email"
+                  class="user-svg"
+                />
+              </label>
+              <input type="email" id="email" name="email" required placeholder="email" />
+            </div>
+            <div class="form-group">
+              <label for="password" class="password">
+                <img
+                  src="../img/locked-svgrepo-com.svg"
+                  alt="Password"
+                  class="locked-svg"
+                />
+              </label>
+              <input type="password" id="password" name="password" required placeholder="password"/>
+            </div>
+            <button id="login-button">Entrar</button>
+          </form>
+        </div>
+      </div>
+    <script src="./login.js"></script>
+  </body>
 </html>

@@ -28,7 +28,7 @@ body{
     background: linear-gradient(32deg, rgba(112,64,234,1) 0%, rgba(65,65,207,1) 100%);
     display: flex;
     flex-direction: column;
-    gap: 35px;
+    gap: 20px;
     border-radius: 10px ;
 }
 .login > button{
@@ -57,8 +57,41 @@ body{
     width: 20px;
 }
 .locked-svg{
-    width: 25px;
+    width: 20px;
 }
 .alinhamentoDivLogin{
     flex-direction: column;
+}
+
+.btn-username > h2{
+    margin-left: -15px;
+}
+
+.form-group {
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    background-color: white;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+#loginForm {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+}
+
+#login-button {
+    background: rgb(147,64,255);
+    background: white;
+    color: rgb(147,64,255);
+    font-family: Arial Black, Arial, sans-serif;
+    font-size: 13px;
+    border-radius: 20px;
+    padding: 8px 20px;
+    cursor: pointer;
 }

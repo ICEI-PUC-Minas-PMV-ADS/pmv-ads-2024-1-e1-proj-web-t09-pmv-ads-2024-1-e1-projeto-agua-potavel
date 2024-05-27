@@ -13,7 +13,7 @@
           <img src="../img/logo.svg" alt="Logo" />
         </div>
         <div class="login">
-          <form id="cadastroForm" action="/submit" method="POST">
+          <form id="cadastroForm">
             <div class="form-group">
               <label for="username" class="btn-username">
                 <img
@@ -25,7 +25,7 @@
               <input type="text" id="username" name="username" required placeholder="username"/>
             </div>
             <div class="form-group">
-              <label for="email" class="email" id="email">
+              <label for="email" class="email">
                 <img
                   src="../img/email-9-svgrepo-com.svg"
                   alt="Email"
@@ -35,7 +35,7 @@
               <input type="email" id="email" name="email" required placeholder="email" />
             </div>
             <div class="form-group">
-              <label for="password" class="password" id="password">
+              <label for="password" class="password">
                 <img
                   src="../img/locked-svgrepo-com.svg"
                   alt="Password"
@@ -44,9 +44,10 @@
               </label>
               <input type="password" id="password" name="password" required placeholder="password"/>
             </div>
-            <button type="submit">Cadastrar</button>
+            <button id="login-button">Cadastrar</button>
           </form>
         </div>
       </div>
+    <script src="./cadastro.js"></script>
   </body>
 </html>
