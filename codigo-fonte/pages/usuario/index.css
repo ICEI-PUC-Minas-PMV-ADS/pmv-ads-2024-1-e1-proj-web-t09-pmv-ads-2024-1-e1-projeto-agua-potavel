@@ -1,5 +1,7 @@
+@import url(../../utils/css/color.css);
+
 body {
-    background-color: #101728;
+    background-color:var(--main-color);
 }
 h1{
     display: flex;

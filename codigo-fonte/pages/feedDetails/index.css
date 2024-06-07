@@ -1,6 +1,8 @@
+@import url(../../utils/css/color.css);
+
 body {
     margin: 0;
-    background-color: #101728;
+    background-color: var(--main-color);
 }
 
 .container {
