@@ -36,12 +36,14 @@ body {
 
 .container-box {
     width: 700px;
-    height: 350px;
+    height: 390px;
     background-color: #57239b;
     border-radius: 25px;
     margin: auto;
     padding: 25px;
     text-align: center;
+    margin-top: 100px;
+    
 }
 
 .container-box h1 {
@@ -92,3 +94,16 @@ body {
     margin: auto;
 }
 
+.centralizarInputs{
+    display:flex;
+    flex-direction: column;
+    gap:15px;
+    align-items: center;
+}
+
+.centralizarInputs > input{
+    padding:17px;
+    border-radius: 10px;
+    border-style: none;
+    width: 350px;
+}
