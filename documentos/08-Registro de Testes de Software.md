@@ -9,7 +9,7 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
   Responsável: Jonathas.
 
-<video controls src="20240609-2036-04.0097924.mp4" title="Title"></video>
+https://user-images.githubusercontent.com/20240609-2036-04.0097924.mp4
 
   </li>
   <hr>
