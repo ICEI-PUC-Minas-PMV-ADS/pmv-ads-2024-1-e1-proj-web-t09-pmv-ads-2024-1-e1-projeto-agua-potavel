@@ -73,12 +73,9 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |RF-03| A aplicação deve mostrar um dashboard de prioridade: Alta / Média / Baixa   | ALTA |
 |RF-04| A aplicação deve permitir ao usuário cadastrar locais com necessidade de suporte.    | ALTA |
 |RF-05| A aplicação deve permitir ao usuário disponibilizar informações do local e da situação.  | ALTA |
-|RF-06| A aplicação deve apresentar, Dicas de solução a pequeno prazo.    | BAIXA |
-|RF-07| A aplicação deve permitir ao usuário visualizar as informações sobre o local e criticidade da situação.    | MÉDIA |
-|RF-08| A aplicação deve permitir ao usuário visualizar as demandas dos locais com mais chamados   | MÉDIA |
-|RF-09| A aplicação deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login.  | MÉDIA |
-|RF-10| A aplicação deve oferecer uma funcionalidade de chat direto entre orgão responsável e cidadão.  | ALTA |
-|RF-11| A aplicação deve permitir ao usuário a fazer feedbacks das ações da equipe de suporte.  | MÉDIA |
+|RF-06| A aplicação deve permitir ao usuário visualizar as informações sobre o local e criticidade da situação.    | MÉDIA |
+|RF-07| A aplicação deve permitir ao usuário verificar as informações registradas no cadastro na página Perfil, após fazer seu login.  | MÉDIA |
+|RF-08| A aplicação deve permitir ao usuário a consultar suas informações.  | MÉDIA |
 
 **Prioridade: Alta / Média / Baixa.  
 

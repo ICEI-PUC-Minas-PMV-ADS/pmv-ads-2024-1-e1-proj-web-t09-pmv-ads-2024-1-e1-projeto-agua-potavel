@@ -40,10 +40,33 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
  </tr>
 </table>
 
- 
-> **Links Úteis**:
-> - [IBM - Criação e Geração de Planos de Teste](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> -  [Teste de Software: Conceitos e tipos de testes](https://blog.onedaytesting.com.br/teste-de-software/)
-> - [Criação e Geração de Planos de Teste de Software](https://www.ibm.com/developerworks/br/local/rational/criacao_geracao_planos_testes_software/index.html)
-> - [Ferramentas de Test para Java Script](https://geekflare.com/javascript-unit-testing/)
-> - [UX Tools](https://uxdesign.cc/ux-user-research-and-user-testing-tools-2d339d379dc7)
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-02: Verificar se as informações do cadastro foram salvas</td>
+  <td>
+   <ul>
+    <li>RF-010:	O site deve oferecer uma funcionalidade para o usúario ver suas informações.</li>
+   </ul>
+  </td>
+  <td>Verificar se as informações de cadastro estão salvas</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Visualizar a página cadastro, cadastrar.</li>
+    <li>Clicar ná página de feed, e cilicar no ícone do perfil.</li>
+    <li>E ver se são as mesmas informações.</li>
+   </ol>
+   </td>
+  <td>Os dados inseridos no cadastro devem ser exibido no perfil.</td>
+  <td>Jonathas</td>
+ </tr>
+</table>
