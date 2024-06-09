@@ -15,8 +15,8 @@ function registrationform(username, email, password) {
   // Verifica se já existe um usuário armazenado
   const storedUser = JSON.parse(localStorage.getItem('User'));
 
-  if (storedUser && storedUser.username === username) {
-    alert('Usuario já cadastrado');
+  if (storedUser.email === email) {
+    alert('Email já cadastrado');
     return  screenChange('../login')
   }
 

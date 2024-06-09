@@ -70,3 +70,65 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <td>Jonathas</td>
  </tr>
 </table>
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-03: Verificar o cadastro de usuários</td>
+  <td>
+   <ul>
+    <li>RF-01: A aplicação deve verificar se o usuário já existe</li>
+   </ul>
+  </td>
+  <td>Evitar duplicidade</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Acesse a área de cadastro</li>
+    <li>Preencha o campo username com um já existente</li>
+   </ol>
+   </td>
+  <td>A aplicação não dever deixar realizar o cadastro duplicado</td>
+  <td>Paulo</td>
+ </tr>
+</table>
+
+
+<table>
+ <tr>
+  <th>Caso de teste</th>
+  <th>Requisitos associados</th>
+  <th>Objetivo do teste</th>
+  <th>Passos</th>
+  <th>Critérios de êxito</th>
+  <th>Responsável</th>
+ </tr>
+ <tr>
+  <td>CT-04: Verificar se o email e senha já estão cadastrados </td>
+  <td>
+   <ul>
+    <li>RF-01: A aplicação deve verificar se o email já existe</li>
+   </ul>
+  </td>
+  <td>Fazer um login bem sucedido</td>
+  <td>
+   <ol>
+    <li>Acessar o navegador.</li>
+    <li>Informar o endereço do site.</li>
+    <li>Acesse a área de Login</li>
+    <li>Preencha os campos com dados já cadastrados</li>
+   </ol>
+   </td>
+  <td>Se estiver tudo certo a aplicação irá fazer o login no site</td>
+  <td>Paulo</td>
+ </tr>
+</table>
