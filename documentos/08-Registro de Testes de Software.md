@@ -9,7 +9,8 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 
   Responsável: Jonathas.
 
-https://user-images.githubusercontent.com/20240609-2036-04.0097924.mp4
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/assets/92859466/a9f3006d-9b8a-4080-ac1d-14a71651ae7c)
+
 
   </li>
   <hr>
