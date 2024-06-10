@@ -11,7 +11,7 @@ document.getElementById("cadastro-button").addEventListener("click", (e) => {
     }
 
     const chamado = { 
-        id: generateUniqueId(), 
+        id: generateUniqueId(),
         titulo,
         descricao,
         localidade 
@@ -19,9 +19,7 @@ document.getElementById("cadastro-button").addEventListener("click", (e) => {
 
     try {
         let chamados = JSON.parse(localStorage.getItem("chamados")) || [];
-
         chamados.push(chamado);
-
         localStorage.setItem("chamados", JSON.stringify(chamados));
 
         alert("Chamado salvo com sucesso!");
@@ -34,7 +32,7 @@ document.getElementById("cadastro-button").addEventListener("click", (e) => {
 
 function exibeFeed() {
     const feedContainer = document.getElementById('feedContainer');
-    feedContainer.innerHTML = '';
+    feedContainer.innerHTML = ''; // Limpar o conteúdo atual
 
     const chamados = JSON.parse(localStorage.getItem('chamados')) || [];
 
@@ -58,11 +56,19 @@ function exibeFeed() {
                     <div class="localidadeArea">
                         <h4>${chamado.localidade}</h4>
                     </div>
-                    <button id="cadastro-button">Ver mais</button>
+                    <button class="ver-mais-button" id="cadastro-button" data-id="${chamado.id}">Ver mais</button>
                 </div>
             </div>
         `;
         feedContainer.innerHTML += chamadoHTML;
+    });
+
+    document.querySelectorAll('.ver-mais-button').forEach(button => {
+        button.addEventListener('click', (e) => {
+            const chamadoId = e.target.getAttribute('data-id');
+            localStorage.setItem('chamadoSelecionado', chamadoId);
+            window.location.href = '../feedDetails/index.html'
+        });
     });
 }
 
