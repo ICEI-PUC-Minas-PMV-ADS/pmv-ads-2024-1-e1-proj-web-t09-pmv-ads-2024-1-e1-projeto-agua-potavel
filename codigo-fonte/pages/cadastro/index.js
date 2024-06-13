@@ -6,14 +6,13 @@ document.getElementById("login-button").addEventListener("click", (e) => {
   const username = document.getElementById("username").value;
   const email = document.getElementById("email").value; 
   const password = document.getElementById("password").value; 
-
   registrationform(username, email, password);
 });
 
 function registrationform(username, email, password) {
   const storedUser = JSON.parse(localStorage.getItem('User'));
 
-  if (storedUser.email === email) {
+  if (storedUser === email) {
     alert('Email já cadastrado');
     return  screenChange('../login')
   }
