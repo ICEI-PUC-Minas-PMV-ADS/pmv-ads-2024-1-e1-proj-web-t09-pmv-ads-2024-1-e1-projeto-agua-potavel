@@ -38,7 +38,7 @@ Portal de alerta contra a sede em lugares com difícil acesso à água potável!
 
 # Hospedagem
 
-* Insira o endereço eletrônico público de acesso ao conteúdo publicado. 
+https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/codigo-fonte/index
 
 # Código-Fonte
 
