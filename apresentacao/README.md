@@ -2,7 +2,7 @@
 
 1. A apresentação do projeto consiste na geração de um conjunto de slides em um arquivo no formato ppt, pptx ou pdf, contemplando os seguintes itens:
 
-[Agua viva (2).pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/files/14972996/Agua.viva.2.pdf)
+[Agua viva (2).pdf](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t09-pmv-ads-2024-1-e1-projeto-agua-potavel/file:///C:/Users/contt/Downloads/Agua%20viva.pdf)
 
 2. Vídeo de apresentação do projeto:
 
