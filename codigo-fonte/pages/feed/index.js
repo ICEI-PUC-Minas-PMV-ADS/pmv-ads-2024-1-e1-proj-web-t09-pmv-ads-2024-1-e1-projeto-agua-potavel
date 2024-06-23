@@ -37,7 +37,7 @@ function exibeFeed() {
     const chamados = JSON.parse(localStorage.getItem('chamados')) || [];
 
     if (chamados.length === 0) {
-        feedContainer.innerHTML = "<p>Nenhum chamado encontrado.</p>";
+        feedContainer.innerHTML = "<p class='notCalled'>Nenhum chamado encontrado.</p>";
         return;
     }
 
